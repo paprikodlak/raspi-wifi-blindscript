@@ -33,3 +33,7 @@ How to use it for configuring Wi-Fi for a new Raspbian system
 8. Wi-Fi connection will be established within several seconds. The indicator light on your Wi-Fi dongle (if exists) will light up and flash. 
 
 You can connect to your Raspberry Pi via SSH. Pi's IP address can be found in router admin interface, or using an IP scanner software. 
+
+2016 edit by Vít Pawlik
+----------------------
+You can use raspi-wifi-shellscript.sh to setup wifi easily in shell.
